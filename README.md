@@ -1,3 +1,4 @@
+# [中文版本](https://github.com/Gavin-TnT/ETS2DLCManager/blob/main/README_CN.md)
 # ETS2DLCManager
 ETS2 map DLC can be disabled with one click
 # OS
