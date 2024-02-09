@@ -82,7 +82,7 @@ class DLCManagerApp:
         ttk.Button(self.master, text="一键禁用DLC", command=self.move_dlc, style='TButton').pack(pady=10)
         ttk.Button(self.master, text="一键启用DLC", command=self.restore_dlc, style='TButton').pack(pady=10)
 
-        tk.Label(self.master, text="版本:V0.0.1\n欢迎使用ETS2 DLC 管理器\n由果果开发/维护", fg="red").pack(side="bottom")
+        tk.Label(self.master, text="版本:V0.0.1\n欢迎使用ETS2 DLC 管理器\n由Gavin开发/维护", fg="red").pack(side="bottom")
 
         # 进度条
         self.progress_bar = ttk.Progressbar(self.master, variable=self.progress_var, length=300, mode="determinate")
