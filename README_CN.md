@@ -31,6 +31,12 @@ This program is free software: you can redistribute it and/or modify it under th
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
+# 联系方式
+电子邮箱:gavintwt@gmail.com
+
+Discord:https://discord.gg/t6crWABu3x
+
+QQ群:934598241
 # 感谢
 [OpenAI & ChatGPT](https://openai.com/)
 
